@@ -41,9 +41,7 @@ why `nim👑`? because it's fast and simple
 <br>
 
 # Installation ☁️
-```fish
-wget https://raw.githubusercontent.com/unxsh/nitch/main/setup.sh && sh setup.sh
-```
+- See [Building 📦](https://github.com/69keks/nitch?tab=readme-ov-file#building-)
 
 # Usage 🪨
 ```
@@ -83,7 +81,7 @@ proc drawInfo*() =
 
   const  # icons before cotegores
     userIcon: string   = " "  # recomended: " " or "|>"
-    hnameIcon: string  = " "  # recomended: " " or "|>"
+    hnameIcon: string  = " "  # recomended: " " or "|>"
     distroIcon: string = "󰻀 "  # recomended: "󰻀 " or "|>"
     kernelIcon: string = "󰌢 "  # recomended: "󰌢 " or "|>"
     uptimeIcon: string = " "  # recomended: " " or "|>"
